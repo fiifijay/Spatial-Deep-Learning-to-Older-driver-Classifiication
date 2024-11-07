@@ -4,6 +4,7 @@ This repository contains code used for the research project on detecting abnorma
 
 
 Files Overview
+
 Naive_Approach.ipynb: Contains the implementation of the naive model, which uses basic telematics features for abnormal driving detection.
 
 Naive_Approach_Preprocessing.ipynb: Preprocessing code specifically for the naive approach, preparing the data for analysis.
