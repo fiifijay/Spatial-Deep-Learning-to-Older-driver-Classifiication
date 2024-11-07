@@ -1,5 +1,5 @@
 Older Driver Classification Code Repository
-This repository contains code used for the research project on detecting abnormal driving behaviors among elderly drivers using advanced machine learning techniques.
+This repository contains code used for the research project on detecting abnormal driving behaviors among elderly drivers using advanced multimodal deep learning techniques.
 
 
 
